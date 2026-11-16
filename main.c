@@ -32,7 +32,7 @@ int main(void)
     }
     else if (input == 0)
     {
-        printf("-");
+        printf("/");
     }
     else
     {
